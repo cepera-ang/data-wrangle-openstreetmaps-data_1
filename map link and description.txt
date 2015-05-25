@@ -1,0 +1,4 @@
+Map data from https://mapzen.com/metro-extracts/
+Tyumen, Russia:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/tyumen_russia.osm.bz2
+

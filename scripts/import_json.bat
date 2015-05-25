@@ -1,0 +1,2 @@
+"C:\Program Files\MongoDB\Server\3.0\bin\mongoimport.exe" /d somedb /c osm /drop /file:"C:\OneDrive\Learning\Udacity Data Analyst Nanodegree\2. Data Wrangling with Mongo DB\Project 2\tyumen_russia.osm.json"
+pause

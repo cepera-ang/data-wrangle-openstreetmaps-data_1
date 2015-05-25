@@ -1,0 +1,1 @@
+"C:\Program Files\MongoDB\Server\3.0\bin\mongod.exe" --dbpath "C:\OneDrive\Learning\Udacity Data Analyst Nanodegree\2. Data Wrangling with Mongo DB\Project 2\db"
